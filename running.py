@@ -1,0 +1,3 @@
+from program import*
+menu()
+
